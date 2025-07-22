@@ -44,6 +44,16 @@ The dashboard covers the following key business metrics and insights:
 
 ---
 
+## Tools Used
+
+- *Microsoft Excel*
+  - Pivot Tables
+  - Charts (Line, Bar, Pie)
+  - Slicers
+  - Conditional Formatting
+
+---
+
 ## Project Structure
 
 coffee-shop-dashboard/  
